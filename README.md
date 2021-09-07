@@ -15,7 +15,7 @@ My IDMX-225-99V Web Page Development I class.
 
 #### What is Web Page Development?
 
-If ypu have to ask, you can't afford it...
+If you have to ask, you can't afford it...
 
   
 ## Acknowledgements
